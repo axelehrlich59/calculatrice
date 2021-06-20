@@ -1,0 +1,34 @@
+.div-title {
+    display: flex;
+    justify-content: center;
+}
+
+.container-result {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.input-result {
+    width: 25%;
+    height: 2rem;
+}
+
+.container-pad-parent {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.pad-container {
+    display: flex;
+    flex-direction: row;
+    background-color: aqua;
+    width:75%;
+}
+
+.button-pad {
+    margin: 5px 5px 5px 5px; 
+    height: 50px;
+    width: 100px;
+}
